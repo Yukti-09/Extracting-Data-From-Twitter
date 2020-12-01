@@ -9,4 +9,7 @@
 In order to pull ten most recent tweets from your Twitter feed the following code can be followed. [[OWN TIMELINE CODE]](https://github.com/Yukti-09/Extracting-Data-From-Twitter/blob/main/Your_Own_Feed.py)
 ## Get Data from Twitter Handle <br />
 In order to pull data from a twitter handle the following code can be followed. [[GET DATA FROM HANDLE]](https://github.com/Yukti-09/Extracting-Data-From-Twitter/blob/main/Get_Data_From_Twitter_Handle.py) <br />
-Here, 150 of the most recent codes of the CEO of Twitter (Twitter Handle Name: jack) have been extracted. Date and time, tweet id and tweet have been printed.
+Here, 150 of the most recent tweets of the CEO of Twitter (Twitter Handle Name: jack) have been extracted. Date and time, tweet id and tweet have been printed.
+## Get Data from Twitter Phrases <br />
+In order to pull data from a twitter handle the following code can be followed. [[GET DATA FROM PHRASES]](https://github.com/Yukti-09/Extracting-Data-From-Twitter/blob/main/Get_Data_From_Phrases.py) <br />
+Here, 150 of the most recent tweets of the phrase '2020 US Election' have been extracted. Date and time, tweet id and tweet have been printed.
