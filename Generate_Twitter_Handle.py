@@ -15,7 +15,7 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth) 
   
 l = string.ascii_uppercase
-l1 = (string.ascii_lowercase)
+l1 = string.ascii_lowercase
 allowed_char=[]
 
 for i in range(len(l)):
